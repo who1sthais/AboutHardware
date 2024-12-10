@@ -10,9 +10,9 @@ Será um sistema de realidade aumentada, para ensinar como as peças de computad
 
 As tecnologias que iremos usar são:
 
-Git/github: Será utilizado para controle de versão
-Unity: Para hospedar o sistema
-Vuforia: Para fazer os marcadores
+- Git/github: Será utilizado para controle de versão
+- Unity: Para hospedar o sistema
+- Vuforia: Para fazer os marcadores
 
 [Em progresso]
 
